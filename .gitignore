@@ -1,0 +1,5 @@
+WindowsLinks/WindowsLinksApp/bin/*
+WindowsLinks/WindowsLinksApp/obj/*
+WindowsLinks/obj/
+WindowsLinks/AddApplicationToPath/obj/
+WindowsLinks/bin/
